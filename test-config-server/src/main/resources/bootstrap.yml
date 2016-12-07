@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: testconfigserver
+    
+#encrypt:
+#  key: secret

@@ -1,0 +1,7 @@
+---
+applications:
+- name: test-config-server
+  host: test-config-server
+  memory: 512M
+  instances: 1
+  path: target/test-config-server-0.0.1-SNAPSHOT.jar
